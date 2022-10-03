@@ -6,6 +6,11 @@
         <enabled>true</enabled>
         <name>AIViewInsightObjects</name>
     </userPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Contact.Custom_Field_Cittacore__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ActivateContract</name>

@@ -6,6 +6,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Contact.Custom_Field_Cittacore__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>*</members>
         <name>Profile</name>
     </types>
